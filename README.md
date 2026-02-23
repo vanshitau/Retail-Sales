@@ -1,4 +1,4 @@
-# Retail Sales Analysis
+# Retail Sales Performance & Profitability Analysis
 ## Overview
 This project analyzes retail transaction data using SQL to uncover insights related to:
 * Revenue performance
