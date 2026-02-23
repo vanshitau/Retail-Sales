@@ -5,7 +5,7 @@ This project analyzes retail transaction data using SQL to uncover insights rela
 * Customer behaviour
 * Product category trends
 * Profitability
-* Time-based sales pattern
+* Time-based sales patterns
 
 ## Objective
 The objective of this project was to simulate real-world business questions and solve them using advanced SQL techniques.
